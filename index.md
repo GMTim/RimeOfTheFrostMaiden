@@ -1,5 +1,3 @@
-#Rime of the Frost Maiden
-
 ## Player Characters
 - Bruno Dwarfmin the Dwarf
 - Deathlord of Supreme Darkness the Human
