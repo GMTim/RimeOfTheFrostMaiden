@@ -20,5 +20,5 @@ _Bryn Shander_
 - Hlin Trollbane told you everything he knows about yeti's, which is they are smart, mean, strong, and will ambush you. They are not venomous or prone to extended stalkings or revenge. They are not susceptible to the cold.
 - Milla overheard in The Northlook that Speaker Masthew in Termalaine had to close the mine due to a gang of kobolds endangering the mines. Apparently anyone who clears them out can expect to be well compensated.
 - Leopold overheard in The Northlook that a white moose has been terrorizing Lonelywood. It has so far completely evaded capture by all the hunters and trappers who have sought it out.
-- Elmfrid learned of Mishann, an elven worshipper of Amaunator, or as she was quick to point out The Morninglord.
+- Gimble learned of Mishann, an elven worshipper of Amaunator, or as she was quick to point out The Morninglord.
 - The party went and met with Duvessa Shane, Speaker of Bryn Shander, and learned about the sacrifices each town makes in an attempt to appease Auril, the goddess of winter. Some towns sacrifices warmth, some food, and some people. You know for a fact Bryn Shander and Easthaven sacrifice people. Byrn Shander uses a lottery system of folks who live in the town.
