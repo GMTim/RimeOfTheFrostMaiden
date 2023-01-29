@@ -1,0 +1,26 @@
+:root {
+    --main-color: #000000;
+    --secondary-color: #150050;
+    --accent-color: #3F0071;
+    --highlight-color: #610094;
+    --text-color: #ffffff;
+}
+html {
+    background-color: var(--main-color);
+}
+body {
+    background-color: var(--secondary-color);
+    color: var(--text-color);
+    border-radius: 3.0rem;
+    padding: 1.5rem;
+}
+a {
+    color: var(--text-color);
+}
+a:hover {
+    color: var(--highlight-color);
+}
+em.session-mark {
+    font-size: 0.8rem;
+    color: var(--highlight-color);
+}

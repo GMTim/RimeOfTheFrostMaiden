@@ -1,0 +1,7 @@
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+      title: "Rime of the Frost Maiden"
+#markdown: GFM
