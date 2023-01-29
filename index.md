@@ -10,8 +10,11 @@
 - Milla Mistlyl the Kalashtar
 - Nobu the Kobold
 
-## Session Notes
-<em class="session-mark">Session 1 (01/24/23)</em>
+## [Locations](./locations/locations.md)
+- [**Bryn Shander**](./locations/bryn-shander.md)
+
+## [Session Notes](./past-sessions.md)
+<em class="subtext">Session 1 (01/24/23)</em>
 
 **Nightal 20 - 1489DR "The Year of the Warrior Princess"**  
 _Bryn Shander_

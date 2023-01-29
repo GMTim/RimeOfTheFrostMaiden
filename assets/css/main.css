@@ -3,6 +3,7 @@
     --secondary-color: #150050;
     --accent-color: #3F0071;
     --highlight-color: #610094;
+    --lowlight-color: lightgrey;
     --text-color: #ffffff;
 }
 html {
@@ -16,11 +17,12 @@ body {
 }
 a {
     color: var(--text-color);
+    text-decoration: underline;
 }
 a:hover {
-    color: var(--highlight-color);
+    color: var(--lowlight-color);
 }
-em.session-mark {
-    font-size: 0.8rem;
-    color: var(--highlight-color);
+.subtext {
+    font-size: 0.8em;
+    color: var(--lowlight-color);
 }
