@@ -3,7 +3,7 @@ title: Bryn Shander
 ---
 **Sacrifices**: _People_
 
-![Bryn Shander Map](./images/bryn-shander-map.jpg)
+[![Bryn Shander Map](./images/bryn-shander-map-small.jpg)](./images/bryn-shander-map.jpg)
 [Full Map](./images/bryn-shander-map.jpg)
 
 ## Important NPCs
