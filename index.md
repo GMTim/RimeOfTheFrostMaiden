@@ -1,3 +1,5 @@
+---
+---
 ## Player Characters
 - Bruno Dwarfmin the Dwarf
 - Deathlord of Supreme Darkness the Human
@@ -9,7 +11,7 @@
 - Nobu the Kobold
 
 ## Session Notes
-_Session 1 (01/24/23)_
+<em class="session-mark">Session 1 (01/24/23)</em>
 
 **Nightal 20 - 1489DR "The Year of the Warrior Princess"**  
 _Bryn Shander_
