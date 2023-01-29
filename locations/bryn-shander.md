@@ -3,8 +3,8 @@ title: Bryn Shander
 ---
 **Sacrifices**: _People_
 
-[![Bryn Shander Map](./images/bryn-shander-map-small.jpg)](./images/bryn-shander-map.jpg)
-[Full Map](./images/bryn-shander-map.jpg)
+[![Bryn Shander Map](http://gmtim.bunchofbull.net/ImageHost/RotFM/Locations/bryn-shander-map-small.jpg)](http://gmtim.bunchofbull.net/ImageHost/RotFM/Locations/bryn-shander-map.jpg)
+[Full Map](http://gmtim.bunchofbull.net/ImageHost/RotFM/Locations/bryn-shander-map.jpg)
 
 ## Important NPCs
 - **Speaker Duvessa Shane** - 
