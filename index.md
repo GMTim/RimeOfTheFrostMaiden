@@ -27,3 +27,23 @@ _Bryn Shander_
 - Leopold overheard in The Northlook that a white moose has been terrorizing Lonelywood. It has so far completely evaded capture by all the hunters and trappers who have sought it out.
 - Gimble learned of Mishann, an elven worshipper of Amaunator, or as she was quick to point out The Morninglord.
 - The party went and met with Duvessa Shane, Speaker of Bryn Shander, and learned about the sacrifices each town makes in an attempt to appease Auril, the goddess of winter. Some towns sacrifices warmth, some food, and some people. You know for a fact Bryn Shander and Easthaven sacrifice people. Byrn Shander uses a lottery system of folks who live in the town.
+
+<script>
+    function shuffleArray(array) {
+        for (let i = array.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [array[i], array[j]] = [array[j], array[i]];
+        }
+    }
+    window.addEventListener("load", (event) => {
+        let button = document.getElementById("player-characters")
+        button.addEventListener("click", (clickEvent) => {
+            let unorderedList = button.nextElementSibling
+            let items = []
+            for (let item of unorderedList.children) { items.push(item) }
+            for (let item of items) { item.remove() }
+            shuffleArray(items)
+            for (let item of items) { unorderedList.appendChild(item) }
+        })
+    })
+</script>
