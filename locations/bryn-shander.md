@@ -1,5 +1,6 @@
 ---
 title: Bryn Shander
+city-image: http://gmtim.bunchofbull.net/ImageHost/RotFM/Locations/bryn-shander-shield.png
 ---
 **Sacrifices**: _People_
 
@@ -15,7 +16,8 @@ title: Bryn Shander
   <span class="subtext">Elven worshipper of Amaunator the Morninglord</span>
 
 ## Important Sessions
-[Session 1](../past-sessions.md#session-1-012423)
+- [Session 1](../past-sessions.md#session-1-012423)
+- [Session 2](../past-sessions.md#session-2-013123)
 
 ---
 [Back](./locations.md)

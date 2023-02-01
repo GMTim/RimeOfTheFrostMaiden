@@ -5,6 +5,8 @@
     --highlight-color: #610094;
     --lowlight-color: lightgrey;
     --text-color: #ffffff;
+    --background: var(--accent-color);
+    --code: var(--lowlight-color);
 }
 html {
     background-color: var(--main-color);
@@ -25,4 +27,7 @@ a:hover {
 .subtext {
     font-size: 0.8em;
     color: var(--lowlight-color);
+}
+.city-image {
+    height: 8rem;
 }
