@@ -5,6 +5,23 @@
 > - [Session 1](#session-1-012423)
 > - [Session 2](#session-2-013123)
 
+### Session 1 (01/24/23)
+**Nightal 20 - 1489DR "The Year of the Warrior Princess"**  
+_[Bryn Shander](./locations/bryn-shander.md)_
+
+- Met a group of dwarves (Hruna, Korux, Storn) who lost a load of ore on the way to Bryn Shander from Kelvin's Cairn. They claim to have been accosted by a yeti, and forced to flee. Their injuries would agree with them. They have offered each member of your party a "fat shiny gem" for returning their ore to the Blackiron Blades smithy in Bryn Shander.
+- You visited The Northlook Inn and Tavern, and secured a set of rooms for the next 10 day.
+- You met a dwarf at The Northlook Inn named Hlin Trollbane. He offered to pay you each 100gp to murder a man he suspects of being a serial killer. The man, Sephek Kaltro is traveling with a nefarious group known as Torg's Caravan. The killings have taken place in Byrn Shander, Targos, and Easthaven.
+- Hlin Trollbane told you everything he knows about yeti's, which is they are smart, mean, strong, and will ambush you. They are not venomous or prone to extended stalkings or revenge. They are not susceptible to the cold.
+- Milla overheard in The Northlook that Speaker Masthew in Termalaine had to close the mine due to a gang of kobolds endangering the mines. Apparently anyone who clears them out can expect to be well compensated.
+- Leopold overheard in The Northlook that a white moose has been terrorizing Lonelywood. It has so far completely evaded capture by all the hunters and trappers who have sought it out.
+- Gimble learned of Mishann, an elven worshipper of Amaunator, or as she was quick to point out The Morninglord.
+- The party went and met with Duvessa Shane, Speaker of Bryn Shander, and learned about the sacrifices each town makes in an attempt to appease Auril, the goddess of winter. Some towns sacrifices warmth, some food, and some people. You know for a fact Bryn Shander and Easthaven sacrifice people. Byrn Shander uses a lottery system of folks who live in the town.
+
+Session Ended on late afternoon of `Nightal 20 - 1489DR`
+
+---
+
 ### Session 2 (01/31/23)
 **Nightal 20 - 1489DR "The Year of the Warrior Princess"**  
 _[Bryn Shander](./locations/bryn-shander.md)_
@@ -24,23 +41,6 @@ _[Bryn Shander](./locations/bryn-shander.md)_
 - Leopold has created a set of introduction papers designed to look as official and authoritative as possible, working through the day and night, and with the assistance of the others in the party who already have similar documentation.
 
 Session Ended on morning of `Nightal 22 - 1489DR` after a long rest.
-
----
-
-### Session 1 (01/24/23)
-**Nightal 20 - 1489DR "The Year of the Warrior Princess"**  
-_[Bryn Shander](./locations/bryn-shander.md)_
-
-- Met a group of dwarves (Hruna, Korux, Storn) who lost a load of ore on the way to Bryn Shander from Kelvin's Cairn. They claim to have been accosted by a yeti, and forced to flee. Their injuries would agree with them. They have offered each member of your party a "fat shiny gem" for returning their ore to the Blackiron Blades smithy in Bryn Shander.
-- You visited The Northlook Inn and Tavern, and secured a set of rooms for the next 10 day.
-- You met a dwarf at The Northlook Inn named Hlin Trollbane. He offered to pay you each 100gp to murder a man he suspects of being a serial killer. The man, Sephek Kaltro is traveling with a nefarious group known as Torg's Caravan. The killings have taken place in Byrn Shander, Targos, and Easthaven.
-- Hlin Trollbane told you everything he knows about yeti's, which is they are smart, mean, strong, and will ambush you. They are not venomous or prone to extended stalkings or revenge. They are not susceptible to the cold.
-- Milla overheard in The Northlook that Speaker Masthew in Termalaine had to close the mine due to a gang of kobolds endangering the mines. Apparently anyone who clears them out can expect to be well compensated.
-- Leopold overheard in The Northlook that a white moose has been terrorizing Lonelywood. It has so far completely evaded capture by all the hunters and trappers who have sought it out.
-- Gimble learned of Mishann, an elven worshipper of Amaunator, or as she was quick to point out The Morninglord.
-- The party went and met with Duvessa Shane, Speaker of Bryn Shander, and learned about the sacrifices each town makes in an attempt to appease Auril, the goddess of winter. Some towns sacrifices warmth, some food, and some people. You know for a fact Bryn Shander and Easthaven sacrifice people. Byrn Shander uses a lottery system of folks who live in the town.
-
-Session Ended on late afternoon of `Nightal 20 - 1489DR`
 
 ---
 [Back](./)

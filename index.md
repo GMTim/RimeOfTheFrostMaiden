@@ -34,7 +34,7 @@ _[Bryn Shander](./locations/bryn-shander.md)_
 - Milla has begun the exciting journey to speaking Abyssal, the language of the lower planes. Assisted by Deathlord.
 - Leopold has created a set of introduction papers designed to look as official and authoritative as possible, working through the day and night, and with the assistance of the others in the party who already have similar documentation.
 
-Session Ended on `Nightal 22 - 1489DR` after a long rest.
+Session Ended on morning of `Nightal 22 - 1489DR` after a long rest.
 
 <script>
     function shuffleArray(array) {
