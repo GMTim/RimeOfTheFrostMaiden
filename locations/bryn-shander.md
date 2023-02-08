@@ -18,6 +18,7 @@ city-image: http://gmtim.bunchofbull.net/ImageHost/RotFM/Locations/bryn-shander-
 ## Important Sessions
 - [Session 1](../past-sessions.md#session-1-012423)
 - [Session 2](../past-sessions.md#session-2-013123)
+- [Session 3](../past-sessions.md#session-3-020723)
 
 ---
 [Back](./locations.md)
