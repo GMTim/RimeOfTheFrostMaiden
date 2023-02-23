@@ -5,6 +5,7 @@
 > - [Session 1](#session-1-012423) - 01/24/23
 > - [Session 2](#session-2-013123) - 01/31/23
 > - [Session 3](#session-3-020723) - 02/07/23
+> - [Session 4](#session-4-022123) - 02/21/23
 
 ### Session 1 (01/24/23)
 **Nightal 20 - 1489DR "The Year of the Warrior Princess"**  
@@ -73,7 +74,7 @@ Session Ended on morning of `Nightal 23 - 1489DR` after a long rest.
 **Nightal 23 - 1489DR "The Year of the Warrior Princess"**  
 _[Caer-Dineval](./locations/caer-dineval.md)_
 
-- You set out for [Caer-Konig](./locations/caer-konig.md), and make it there after a few hours of walking.
+- You set out for Caer-Konig, and make it there after a few hours of walking.
 
 _[Caer-Konig](./locations/caer-konig.md)_
 

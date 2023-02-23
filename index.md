@@ -14,6 +14,7 @@
 ## [Locations](./locations/locations.md)
 - [**Bryn Shander**](./locations/bryn-shander.md)
 - [**Caer-Dineval**](./locations/caer-dineval.md)
+- [**Caer-Konig**](./locations/caer-konig.md)
 - [**Targos**](./locations/targos.md)
 
 ## [Session Notes](./past-sessions.md)
@@ -22,7 +23,7 @@
 **Nightal 23 - 1489DR "The Year of the Warrior Princess"**  
 _[Caer-Dineval](./locations/caer-dineval.md)_
 
-- You set out for [Caer-Konig](./locations/caer-konig.md), and make it there after a few hours of walking.
+- You set out for Caer-Konig, and make it there after a few hours of walking.
 
 _[Caer-Konig](./locations/caer-konig.md)_
 

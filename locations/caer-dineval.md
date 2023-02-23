@@ -17,6 +17,7 @@ city-image: http://gmtim.bunchofbull.net/ImageHost/RotFM/Locations/caer-dineval-
 
 ## Important Sessions
 - [Session 3](../past-sessions.md#session-3-020723)
+- [Session 4](../past-sessions.md#session-4-022123)
 
 ---
 [Back](./locations.md)

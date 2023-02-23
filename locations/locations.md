@@ -8,6 +8,7 @@ title: Icewind Dale Locations
 ## Ten Towns
 - [Bryn Shander](./bryn-shander.md)
 - [Caer-Dineval](./caer-dineval.md)
+- [Caer-Konig](./caer-konig.md)
 - [Targos](./targos.md)
 
 ---
