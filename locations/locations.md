@@ -9,6 +9,7 @@ title: Icewind Dale Locations
 - [Bryn Shander](./bryn-shander.md)
 - [Caer-Dineval](./caer-dineval.md)
 - [Caer-Konig](./caer-konig.md)
+- [Easthaven](./easthaven.md)
 - [Targos](./targos.md)
 
 ---

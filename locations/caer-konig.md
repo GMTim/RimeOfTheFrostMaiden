@@ -17,6 +17,7 @@ city-image: http://gmtim.bunchofbull.net/ImageHost/RotFM/Locations/caer-konig-sh
 
 ## Important Sessions
 - [Session 4](../past-sessions.md#session-4-022123)
+- [Session 5](../past-sessions.md#session-5-022823)
 
 ---
 [Back](./locations.md)
