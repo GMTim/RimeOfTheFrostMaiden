@@ -6,6 +6,7 @@
 > - [Session 2](#session-2-013123) - 01/31/23
 > - [Session 3](#session-3-020723) - 02/07/23
 > - [Session 4](#session-4-022123) - 02/21/23
+> - [Session 5](#session-5-022823) - 02/28/23
 
 ### Session 1 (01/24/23)
 **Nightal 20 - 1489DR "The Year of the Warrior Princess"**  
