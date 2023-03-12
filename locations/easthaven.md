@@ -4,8 +4,8 @@ city-image: http://gmtim.bunchofbull.net/ImageHost/RotFM/Locations/easthaven-shi
 ---
 **Sacrifices**: _People_
 
-[![Caer-Dineval Map](http://gmtim.bunchofbull.net/ImageHost/RotFM/Locations/easthaven-map-small.jpg)](http://gmtim.bunchofbull.net/ImageHost/RotFM/Locations/easthaven-map.jpg)
-[Full Map](http://gmtim.bunchofbull.net/ImageHost/RotFM/Locations/easthaven-map.jpg)
+[![Caer-Dineval Map](http://gmtim.bunchofbull.net/ImageHost/RotFM/Locations/easthaven-map-small.jpg)](http://gmtim.bunchofbull.net/ImageHost/RotFM/Locations/easthaven-map.jpeg)
+[Full Map](http://gmtim.bunchofbull.net/ImageHost/RotFM/Locations/easthaven-map.jpeg)
 
 ## Important NPCs
 - **Imdra Arlaggath** - 
