@@ -182,7 +182,7 @@ _[Bryn Shander](./locations/bryn-shander.md)_
 - Mightor, board while waiting for his armor discovered an underground casino/fight club. After besting the regulars in a fight, Mightor and Elmfrid where alerted to the fact that the club would pay for beasts that would make a good fight. It was up to the party to figure out how to capture and surreptitiously get those creatures to the club. But they would be paid for any they did.
 
 
-Session Ended on morning of `Hammer 1 - 1489DR`.
+Session Ended on morning of `Hammer 1 - 1490DR`.
 
 ---
 [Back](./)
