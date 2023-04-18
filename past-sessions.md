@@ -9,6 +9,7 @@
 > - [Session 5](#session-5-022823) - 02/28/23
 > - [Session 6](#session-6-030723) - 03/07/23
 > - [Session 7](#session-7-031423) - 03/14/23
+> - [Session 8](#session-8-032123) - 03/21/23
 
 ### Session 1 (01/24/23)
 **Nightal 20 - 1489DR "The Year of the Warrior Princess"**  
@@ -165,6 +166,23 @@ _[Easthaven](./locations/easthaven.md)_
 - After that the party cleaned up the battle site, and took the man's body to the lake. There they dumped it into the water where an icy block formed around it and dragged it into the depths. The party then all returned to the inn and had a long rest.
 
 Session Ended on morning of `Nightal 28 - 1489DR`.
+—
+
+### Session 8 (03/21/23)
+**Nightal 28 - 1489DR “The Year of the Warrior Princess”**  
+_[Easthaven](./locations/easthaven.md)_
+
+- The party left Easthaven and made their way back to Bryn Shander to take care of some unfinished business. Making it there in a few hours.
+
+_[Bryn Shander](./locations/bryn-shander.md)_
+
+- Once in Bryn Shander, Bruno got in contact with the folks at Black Iron Blades to see to repaying the rest of his debt to them. Mightor and Nobu both commissioned some armor while there, which took a couple of days to complete. Bruno worked the runes for friend into Mightor’s armor, a symbol that all dwarves should recognize.
+- Deathlord took the cursed crystal to Mishann the priest of the Morning Lord, and with her help was able to remove the curse and unbind the item from her. Deathlord also learned from the priest that the crystal was once part of the terrible Crenshinibon, an evil malevolent magic item first defeated by Drizzt Do’Urden hundreds of years ago and thought long gone.
+- Milla was arrested for attempting to purchase a set of thieves tools. Deathlord came and bailed her out. When her things where returned to her she discovered that a set of thieves tools has been slipped in with her other belongings.
+- Mightor, board while waiting for his armor discovered an underground casino/fight club. After besting the regulars in a fight, Mightor and Elmfrid where alerted to the fact that the club would pay for beasts that would make a good fight. It was up to the party to figure out how to capture and surreptitiously get those creatures to the club. But they would be paid for any they did.
+
+
+Session Ended on morning of `Hammer 1 - 1489DR`.
 
 ---
 [Back](./)
