@@ -13,6 +13,9 @@ city-image: http://gmtim.bunchofbull.net/ImageHost/RotFM/Locations/easthaven-shi
 
 ## Important Sessions
 - [Session 5](../past-sessions.md#session-5-022823)
+- [Session 6](../past-sessions.md#session-6-030723)
+- [Session 7](../past-sessions.md#session-7-031423)
+- [Session 8](../past-sessions.md#session-8-032123)
 
 ---
 [Back](./locations.md)

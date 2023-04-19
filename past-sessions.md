@@ -10,6 +10,7 @@
 > - [Session 6](#session-6-030723) - 03/07/23
 > - [Session 7](#session-7-031423) - 03/14/23
 > - [Session 8](#session-8-032123) - 03/21/23
+> - [Session 9](#session-9-041823) - 04/18/23
 
 ### Session 1 (01/24/23)
 **Nightal 20 - 1489DR "The Year of the Warrior Princess"**  
@@ -166,7 +167,8 @@ _[Easthaven](./locations/easthaven.md)_
 - After that the party cleaned up the battle site, and took the man's body to the lake. There they dumped it into the water where an icy block formed around it and dragged it into the depths. The party then all returned to the inn and had a long rest.
 
 Session Ended on morning of `Nightal 28 - 1489DR`.
-—
+
+---
 
 ### Session 8 (03/21/23)
 **Nightal 28 - 1489DR “The Year of the Warrior Princess”**  
@@ -183,6 +185,24 @@ _[Bryn Shander](./locations/bryn-shander.md)_
 
 
 Session Ended on morning of `Hammer 1 - 1490DR`.
+
+---
+
+### Session 9 (04/18/23)
+**Hammer 1 - 1490DR “Year of the Star Walker's Return”**  
+_[Bryn Shander](./locations/bryn-shander.md)_
+
+- On the morning of Hammer 1, you left Bryn Shander and made your way around to Termalaine.
+
+_[Termalaine](./locations/termalaine.md)_
+
+- You reached Termalaine around midday. There you heard a crier asking folks to help clear the mines of Kobolds. You inquire, and are directed to the Town Hall, where you meet Speaker Oarus. He informs you that the kobolds invaded the mines, and murdered some of the miners, and he hasn't been able to get anyone to go back in since. No one except one man, Jipip Hillsbane. But he was never seen again.
+- You came up with a plan to send in Nobu while the rest of you took up residence outside of the mines. Nobu then shed his winter clothing, and made his way though the mines. He found a set of human footprints that mysteriously disappeared, and eventually the kobolds.
+- At first he tried to claim that he was alone, but something about his story didn't sit right with the kobold leader Trex. Trex then ordered two of his kobolds to keep Nobu there, and went to the mine entrance where he parlayed with the rest of the party. The party then found out that the kobolds didn't hurt anyone and simply sought shelter in the mines. Together with the kobold leader you postulated that something else must have killed the miners. Kobolds had gone missing as well.
+- Trex then lead the you all back down to Nobu, where Milla heard a psychic voice in her head. After some effort she discovered a petrified Illithid, and inside it's skull a psi crystal. It showed her an large squid like ship amongst a vast sea of other ships like it, but then something happened to it, and it crashed into the ice and snow.
+- You have agreed to speak to the town to try and get them to allow the kobolds to immigrate. However, you feel like without some explanation of what happened to the miners, your pleas would fall on deaf ears. So you have decided to try and hunt down whatever it was that killed the other miners and kobolds, and use it to prove the kobolds didn't harm anyone.
+
+Session Ended mid afternoon on `Hammer 1 - 1490RD` in the mines of Termalaine.
 
 ---
 [Back](./)
