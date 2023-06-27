@@ -10,7 +10,9 @@ title: Icewind Dale Locations
 - [Caer-Dineval](./caer-dineval.md)
 - [Caer-Konig](./caer-konig.md)
 - [Easthaven](./easthaven.md)
+- [Lonelywood](./lonelywood.md)
 - [Targos](./targos.md)
+- [Termalaine](./termalaine.md)
 
 ---
 [Back](../)

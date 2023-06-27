@@ -11,6 +11,9 @@
 > - [Session 7](#session-7-031423) - 03/14/23
 > - [Session 8](#session-8-032123) - 03/21/23
 > - [Session 9](#session-9-041823) - 04/18/23
+> - [Session 10](#session-10-060623) - 06/06/23
+> - [Session 10](#session-11-061323) - 06/13/23
+> - [Session 11](#session-12-062023) - 06/20/23
 
 ### Session 1 (01/24/23)
 **Nightal 20 - 1489DR "The Year of the Warrior Princess"**  
@@ -203,6 +206,48 @@ _[Termalaine](./locations/termalaine.md)_
 - You have agreed to speak to the town to try and get them to allow the kobolds to immigrate. However, you feel like without some explanation of what happened to the miners, your pleas would fall on deaf ears. So you have decided to try and hunt down whatever it was that killed the other miners and kobolds, and use it to prove the kobolds didn't harm anyone.
 
 Session Ended mid afternoon on `Hammer 1 - 1490RD` in the mines of Termalaine.
+
+---
+
+### Session 10 (06/06/23)
+**Hammer 1 - 1490DR “Year of the Star Walker's Return”**  
+_[Termalaine](./locations/termalaine.md)_
+
+- Party finds a Grell that was eating the miners and kobolds.
+- Party proves to town that Grell was the problem, and allows kobolds to come and stay in town.
+- Part of the party has a fun time drinking with the Dwarven Gods.
+
+Session Ended morning of `Hammer 2 - 1490RD` in the town of Termalaine.
+
+---
+
+### Session 11 (06/13/23)
+**Hammer 2 - 1490DR “Year of the Star Walker's Return”**  
+_[Termalaine](./locations/termalaine.md)_
+
+- Party makes way to [Lonelywood](./locations/lonelywood.md).
+
+_[Lonelywood](./locations/lonelywood.md)_
+
+- Party learns that White Moose targets just loggers, and is smart enough to avoid hunters.
+- Party sets out into woods and talks to loggers and inspects sites. They luck into a set of Moose tracks and follow them to a ancient elven structure.
+
+Session Ended late `Hammer 2 - 1490RD` in an ancient elven ruin near [Lonelywood](./locations/lonelywood.md).
+
+---
+
+### Session 12 (06/20/23)
+**Hammer 2 - 1490DR “Year of the Star Walker's Return”**  
+_[Lonelywood](./locations/lonelywood.md)_
+
+- Party explores ruins.
+- Bruno sacrifices hand and gains allegiance of holy warrior interned at the site.
+- Party finds White Moose with many other animals, all of which have been uplifted by a druid. Moose attacks party who kills it.
+- Party finds crazy druid with an awakened berry bush and another dead druid. Druid kills Greg and nearly kills Milla before being killed.
+- Greg turns out to have been a doppelgänger, possible the whole time!
+- Berry bush joins party.
+
+Session Ended late `Hammer 2 - 1490RD` in an ancient elven ruin near [Lonelywood](./locations/lonelywood.md).
 
 ---
 [Back](./)
